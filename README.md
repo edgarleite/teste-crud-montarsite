@@ -23,7 +23,7 @@ No banco de dados, rodar script SQL do arquivo `teste-crud-montarsite.sql` anexo
 
 Você pode usar seu navegador para acessar o aplicativo Yii instalado com o seguinte URL:
 ```sh
-http://localhost/teste-crud-montarsite/web
+http://localhost/nome-da-pasta/web
 ```
 
 A pasta raíz da aplicação é `/web`.
